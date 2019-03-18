@@ -1,0 +1,14 @@
+ECHO                        `.-:/+oossssssoo+/:-.`              
+ECHO                  `.:osyyso+/::---..---::/+osyyso:.`        
+ECHO               `:oyso/+oys-...../y//y/.....-syo+/osyo:`     
+ECHO             .oho/+ydmNNN:......oNNNNo......-NNNmdy+/oho.   
+ECHO            +h+/ymNNNNNNNo-...-/dNNNNd/-...-+NNNNNNNmy/+h+` 
+ECHO           od:omNNNNNNNNNmdysyhmNNNNNNmhysydmNNNNNNNNNmo:hs 
+ECHO          .m/:mNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNm:/m.
+ECHO          .m+:mNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNm:/m.
+ECHO           od:+mNNNNmhyyhmNNdhhdmNNNNNdhhdNNmhyyhmNNNNmo:do 
+ECHO            +ho/smNNy-..-:os-..-+dNNm+-..-oo:-..-yNNmy/+h+  
+ECHO             .oys++yh:...........:dd:...........:hy++syo.   
+ECHO               `:oyyo/-...........::...........-/oyyo:`     
+ECHO                   `:+syyso+//::------:://+osyys+:`         
+ECHO                         `-://+oooooooo+//:-`             
